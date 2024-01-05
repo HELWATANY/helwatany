@@ -1,4 +1,5 @@
-### Hi there 👋
+# Haithm EL-Watany - @HELWATANY
+![Static Badge](https://img.shields.io/badge/Vue-a?style=for-the-badge&logo=vuedotjs&logoColor=rgba(79%2C%20192%2C%20141%2C%201)&labelColor=rgba(79%2C%20192%2C%20141%2C%200.35)&color=rgba(79%2C%20192%2C%20141%2C%200.35)#gh-dark-mode-only)
 
 <!--
 **HELWATANY/helwatany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
