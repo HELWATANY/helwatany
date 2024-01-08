@@ -7,7 +7,7 @@ Resourceful Senior Front-End Engineer with 11 years of developing high-performan
 
 <br />
 
-## 🛠️ Technologies
+## 💻 My Tech Stack
 <div align="center">
   <img alt="HTML5 Badge" src="https://img.shields.io/badge/HTML5-a?style=flat-square&logo=html5&logoColor=E34F26&labelColor=612d20&color=612d20">
   <img alt="CSS3 Badge" src="https://img.shields.io/badge/CSS3-a?style=flat-square&logo=css3&logoColor=1572B6&labelColor=193a52&color=193a52">
@@ -37,7 +37,7 @@ Resourceful Senior Front-End Engineer with 11 years of developing high-performan
 
 <br />
 
-## 🧑🏻‍💼 Business Domains:
+## 🧑🏻‍💼 Business Domains
 - **Last-Mile Delivery & Logistics:** RoadRunner (EG) | Bites (EG) | [Supplyfied (SA)](https://supplyfied.com/).
 - **Chatbots & AI:** BOTTER (EG, SA) | Cybertron International Inc. (US).
 - **Fintech:** Bankynote (EG, SA, AE).
@@ -56,9 +56,9 @@ Resourceful Senior Front-End Engineer with 11 years of developing high-performan
 
 - **Bites:** Built the system management dashboard and the live order management dashboards.
 
-- **BOTTER:** Led and guided the frontend-team while revamping the management dashboard, creating the smart bot flow builder, and the bot chat widget architecture and continuously reviewed projects' performance to identify opportunities for continuous improvement.
+- **BOTTER:** Led and guided the frontend team while revamping the management dashboard, creating the smart bot flow builder, and the bot chat widget architecture, and continuously reviewed projects' performance to identify opportunities for continuous improvement.
 
-* **Zumra Food:** Led and guided the frontend-team while building the main E-Commerce website using Nuxt.js and continuously reviewed projects' performance to identify opportunities for continuous improvement.
+* **Zumra Food:** Led and guided the frontend team while building the main E-Commerce website using Nuxt.js and continuously reviewed projects' performance to identify opportunities for continuous improvement.
 - **Bankynote:** Built the main management dashboard and documents validation system.
 
 - **Supplyfied:** Built the MVP for a system to connect hotel and hospitality purchasers with product solutions locally and globally.
@@ -70,3 +70,13 @@ Resourceful Senior Front-End Engineer with 11 years of developing high-performan
 ## 🏆 Accomplishments
 - Front End Web Development Advanced - Udacity ([HZKKL6GP](https://graduation.udacity.com/confirm/HZKKL6GP))
 - Front End Developer Nanodegree - Udacity ([RKS6ERNJ](https://confirm.udacity.com/RKS6ERNJ))
+
+<br />
+
+## 🎮 When I'm AFK
+<div align="center">
+  <img alt="Overclocking" src="https://img.shields.io/badge/Overclooking-a?style=for-the-badge&logo=republicofgamers&logoColor=FFFFFF&labelColor=FF0029&color=FF0029">
+  <img alt="PC Master Race" src="https://img.shields.io/badge/PC Master Race-a?style=for-the-badge&logo=pcgamingwiki&logoColor=FFFFFF&labelColor=ad9b05&color=ad9b05">
+  <img alt="Steam" src="https://img.shields.io/badge/Steam-a?style=for-the-badge&logo=steam&logoColor=FFFFFF&labelColor=1e1e1e&color=1e1e1e">
+  <img alt="Ubisoft" src="https://img.shields.io/badge/Ubisoft-a?style=for-the-badge&logo=ubisoft&logoColor=FFFFFF&labelColor=004daa&color=004daa">
+</div>
