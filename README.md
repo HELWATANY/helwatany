@@ -67,6 +67,9 @@ Resourceful Senior Front-End Engineer with 11 years of developing high-performan
 
 <br />
 
+## 🤖 Opensource Projects & Contributions
+- [Simple Access](https://github.com/m-elbably/simple-access) Attribute-Role-Based Hybrid Access Control Library
+
 ## 🏆 Accomplishments
 - Front End Web Development Advanced - Udacity ([HZKKL6GP](https://graduation.udacity.com/confirm/HZKKL6GP))
 - Front End Developer Nanodegree - Udacity ([RKS6ERNJ](https://confirm.udacity.com/RKS6ERNJ))
