@@ -75,6 +75,9 @@ Resourceful Senior Front-End Engineer with 11 years of developing high-performan
 ## 🏆 Accomplishments
 - Front End Web Development Advanced - Udacity ([HZKKL6GP](https://graduation.udacity.com/confirm/HZKKL6GP))
 - Front End Developer Nanodegree - Udacity ([RKS6ERNJ](https://confirm.udacity.com/RKS6ERNJ))
+<div align="center">
+<a href="https://app.daily.dev/helwatany"><img src="https://api.daily.dev/devcards/v2/9hcuZTEzGwc6SzZuIDpBw.png?type=default&r=95m" width="356" alt="Haithm EL-Watany's Dev Card"/></a>
+</div>
 
 <br />
 
