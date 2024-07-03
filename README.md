@@ -70,6 +70,7 @@ Resourceful Senior Front-End Engineer with 11 years of developing high-performan
 
 ## 🤖 Opensource Projects & Contributions
 - [Simple Access](https://github.com/m-elbably/simple-access) Attribute-Role-Based Hybrid Access Control Library
+- [JSON Editor Vue ](https://github.com/cloydlau/json-editor-vue) Vue 2.6/2.7/3 & Nuxt 2/3 isomorphic JSON editor, viewer, formatter and validator.
 
 <br />
 
