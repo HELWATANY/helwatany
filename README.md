@@ -39,12 +39,12 @@ Resourceful Senior Front-End Engineer with 11 years of developing high-performan
 
 ## 🧑🏻‍💼 Business Domains
 - **Last-Mile Delivery & Logistics:** RoadRunner (EG) | Bites (EG) | [Supplyfied (SA)](https://supplyfied.com/).
-- **Chatbots & AI:** BOTTER (EG, SA) | Cybertron International Inc. (US).
+- **Chatbots & AI:** [BOTTER (EG, SA)](https://botter.ai/) | [Cybertron International Inc. (US)](https://www.clxgaming.com/).
 - **Fintech:** Bankynote (EG, SA, AE).
-- **Food Ordering:** Bites (EG) | Zumra Food (EG).
-- **Ecommerce:** Cybertron International Inc. (US) | Zumra Food (EG).
-- **ERP Systems:** IN3 (EG).
-- **PC Hardware:** Cybertron International Inc. (EG).
+- **Food Ordering:** Bites (EG) | [Zumra Food (EG)](https://www.zumrafood.com/en).
+- **Ecommerce:** [Cybertron International Inc. (US)](https://www.clxgaming.com/) | [Zumra Food (EG)](https://www.zumrafood.com/en).
+- **ERP Systems:** [IN3 (EG)](https://in3.cloud/).
+- **PC Hardware:** [Cybertron International Inc. (US)](https://www.clxgaming.com/).
 - **Technical Consultancy Services:** [Q Go Travel (KW)](https://www.qgoonline.com/)
 
 <br />
@@ -58,7 +58,8 @@ Resourceful Senior Front-End Engineer with 11 years of developing high-performan
 
 - **BOTTER:** Led and guided the frontend team while revamping the management dashboard, creating the smart bot flow builder, and the bot chat widget architecture, and continuously reviewed projects' performance to identify opportunities for continuous improvement.
 
-* **Zumra Food:** Led and guided the frontend team while building the main E-Commerce website using Nuxt.js and continuously reviewed projects' performance to identify opportunities for continuous improvement.
+- **Zumra Food:** Led and guided the frontend team while building the main E-Commerce website using Nuxt.js and continuously reviewed projects' performance to identify opportunities for continuous improvement.
+
 - **Bankynote:** Built the main management dashboard and documents validation system.
 
 - **Supplyfied:** Built the MVP for a system to connect hotel and hospitality purchasers with product solutions locally and globally.
