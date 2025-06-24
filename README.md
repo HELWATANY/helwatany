@@ -85,8 +85,12 @@ Resourceful Senior Front-End Engineer with 11 years of developing high-performan
 
 ## 🎮 When I'm AFK
 <div align="center">
-  <a href="https://hwbot.org/user/o0r3d0o/" title="Visit my HWBot Profile" target="_blank"><img alt="Overclocking" src="https://img.shields.io/badge/Overclooking-a?style=for-the-badge&logo=republicofgamers&logoColor=FFFFFF&labelColor=FF0029&color=FF0029" /></a>
   <img alt="PC Master Race" src="https://img.shields.io/badge/PC Master Race-a?style=for-the-badge&logo=pcgamingwiki&logoColor=FFFFFF&labelColor=ad9b05&color=ad9b05" />
+  <a href="https://hwbot.org/user/o0r3d0o/" title="Visit my HWBot Profile" target="_blank"><img alt="Overclocking" src="https://img.shields.io/badge/Overclooking-a?style=for-the-badge&logo=republicofgamers&logoColor=FFFFFF&labelColor=FF0029&color=FF0029" /></a>
   <a href="https://steamcommunity.com/id/o0R3D0o/" title="Visit my Steam Profile" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-a?style=for-the-badge&logo=steam&logoColor=FFFFFF&labelColor=1e1e1e&color=1e1e1e"></a>
   <img alt="Ubisoft" src="https://img.shields.io/badge/Ubisoft-a?style=for-the-badge&logo=ubisoft&logoColor=FFFFFF&labelColor=004daa&color=004daa" />
+</div>
+&nbsp;
+<div align="center">
+  <img alt="o0R3D0o Tom Clancy's The Division 2 Playing Card" src="images/tctd2_playing_card.gif" />
 </div>
